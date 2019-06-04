@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">register and Login</string>
+    <string name="fnameerr">Enter your name</string>
+    <string name="lnameerr">Enter a valid human name</string>
+    <string name="emailerr">Enter a valid email address</string>
+    <string name="phoneerr">Enter a valid phone number</string>
+    <string name="passerr">Enter password</string>
+    <string name="cnfpasserr">Password do not match!</string>
+</resources>
